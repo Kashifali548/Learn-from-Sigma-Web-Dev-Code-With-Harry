@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Playpen+Sans+Thai:wght@100..800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-family: "Playpen Sans Thai", cursive;
+  /* font-style: italic;
+    font-weight: 700;
+    text-decoration: underline; */
+    line-height: 3;
+}
+
+h2{
+    text-transform: lowercase;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+}
