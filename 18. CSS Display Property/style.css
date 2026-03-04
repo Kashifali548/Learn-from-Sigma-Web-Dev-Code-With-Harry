@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.box{
+    border: 2px solid black;
+    display: inline-block;
+    width: 58px;
+    padding: 30px;
+    margin: 49px;
+    
+}
+.box1 {
+    /* display: none; */
+    /* visibility: hidden; */
+}
